@@ -68,4 +68,6 @@ If you find this repository helpful:
 
 📜 License
 
-This project is for educational purposes only.
+This project is for educational purposes only.  
+
+This is for those who are intrested to learn about siber security 
